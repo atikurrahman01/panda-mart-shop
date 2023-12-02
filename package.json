@@ -1,0 +1,13 @@
+{
+  "name": "panda-mart-shop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
